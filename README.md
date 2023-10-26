@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Soufian</h1>
+Hi 👋, I'm Soufian
 <h3 align="center">A passionate frontend developer from Berlin</h3>
 
 - 🔭 I’m currently working on [Kalorienrechner](https://github.com/SoufianSo/Kalorienrechner.git)
